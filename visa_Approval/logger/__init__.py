@@ -18,3 +18,6 @@ logging.basicConfig(
     format="[ %(asctime)s ] %(name)s - %(levelname)s - %(message)s",
     level=logging.DEBUG,
 )
+
+
+## logging.info("Welcome to out logs") // this for giving log information
